@@ -1,0 +1,7 @@
+<xml>
+	<server>
+		<port>a80</port>
+		<root>/webapp</root>
+		<name>ruiServer</name>
+	</server>
+</xml>
